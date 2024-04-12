@@ -1,0 +1,5 @@
+[
+    {"title": "Book One", "author": "Author A", "price": 9.99, "stock": 100},
+    {"title": "Book Two", "author": "Author B", "price": 15.99, "stock": 50},
+    {"title": "Book Three", "author": "Author C", "price": 20.00, "stock": 30}
+]
