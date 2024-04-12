@@ -25,7 +25,7 @@ Before you run the application, make sure you have the following installed:
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/afiay/bookstore_app
     cd <repository-folder>
     ```
 
